@@ -16,7 +16,13 @@
 
 <br />
 
-### Languages i know:
+### stats: 
+
+![G3V.co](https://github-readme-stats.vercel.app/api?username=TharmsyXD&show_icons=true&theme=Blue)
+---------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharmsyXD&langs_count=8&theme=Blue)
+
+#### Languages i know:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
