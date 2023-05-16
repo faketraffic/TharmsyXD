@@ -1,4 +1,4 @@
-# Hi there, I'm Tharmsy 👋
+# Hi there, I'm Tharmsy's 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=TharmsyXD&color=blue)
 
