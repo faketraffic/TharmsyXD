@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tharmsy 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=TharmsyXD&color=blue)
 
@@ -16,11 +16,13 @@
 
 <br />
 
-### Languages and Tools:
+### Languages i know:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://languages.abranhe.com/languages/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
+<img align="left" alt="Go" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FPNG%2F&psig=AOvVaw0ix1sKgjsauJ_unnYqVshj&ust=1684346530855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDikfe1-v4CFQAAAAAdAAAAABAE" />
 <img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
 
 <br />
