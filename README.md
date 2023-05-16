@@ -23,7 +23,8 @@
 <img align="left" alt="HTML5" width="26px" src="https://languages.abranhe.com/languages/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
 <img align="left" alt="Go" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FPNG%2F&psig=AOvVaw0ix1sKgjsauJ_unnYqVshj&ust=1684346530855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDikfe1-v4CFQAAAAAdAAAAABAE" />
-<img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
+<img align="left" alt="PhP" width="26px" src="https://languages.abranhe.com/languages/php.png" />
+<img align="left" alt="Lua" width="26px" src="https://languages.abranhe.com/languages/lua.png" />
 
 <br />
 <br />
