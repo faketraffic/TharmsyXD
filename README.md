@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @TharmsyXD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Tharmsy 👋
 
-<!---
-TharmsyXD/TharmsyXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+## I'm a Student, Developer, and Lifelong Learner!
+
+- 🔭 I’m currently working on Private Gen and some other stuff!
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Code
