@@ -20,8 +20,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/css3.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://languages.abranhe.com/languages/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
 
 <br />
 <br />
