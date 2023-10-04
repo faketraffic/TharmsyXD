@@ -1,41 +1,37 @@
-# Hi there, I'm Tharmsy's 👋
+# Hi there, I'm Tharmsy 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=TharmsyXD&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=[TharmsyXD]&color=green)
 
-## I'm a Student, Developer, and Lifelong Learner!
+## I'm an Coder?
 
-- 🔭 I’m currently working on Private gen and some other stuff!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code
+- 🚀 Currently working on Social media and a few hack clients
+- 💡 Learning Java
+- 🤝 Looking to collaborate on Open Source projects
+- 🎯 2023 Goals: Publish a Messging app
+
 
 ### Connect with me:
 
-[<img align="left" alt="Tharmsy | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### stats: 
+### My GitHub Stats:
 
-![G3V.co](https://github-readme-stats.vercel.app/api?username=TharmsyXD&show_icons=true&theme=Blue)
----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharmsyXD&langs_count=8&theme=Blue)
+![YourStats](https://github-readme-stats.vercel.app/api?username=[TharmsyXD]&show_icons=true&theme=radical)
 
-#### Languages i know:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TharmsyXD]&langs_count=8&theme=radical)
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://languages.abranhe.com/languages/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
-<img align="left" alt="Go" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FPNG%2F&psig=AOvVaw0ix1sKgjsauJ_unnYqVshj&ust=1684346530855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDikfe1-v4CFQAAAAAdAAAAABAE" />
-<img align="left" alt="PhP" width="26px" src="https://languages.abranhe.com/languages/php.png" />
-<img align="left" alt="Lua" width="26px" src="https://languages.abranhe.com/languages/lua.png" />
+#### Languages and Tools:
+
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<img align="left" alt="Ruby" width="26px" src="https://languages.abranhe.com/languages/ruby.png" />
+<img align="left" alt="Shell" width="26px" src="https://languages.abranhe.com/languages/shell.png" />
 
 <br />
 <br />
 
 ---
 
-
-[gmail]: mailto:tharmsy@transgender.army
