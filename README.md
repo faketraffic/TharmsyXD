@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/1158420428109394040.png">
+  
 </div>
 
 <h3 align="center">L E A R N I N G</h3>
