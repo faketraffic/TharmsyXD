@@ -1,41 +1,35 @@
-# Hi there, I'm Tharmsy's 👋
+![svg (1)](https://github.com/EpicCatto/EpicCatto/assets/72650902/96c1309e-d384-4a93-8723-89c78e24d79a)
 
-![Profile views](https://komarev.com/ghpvc/?username=TharmsyXD&color=blue)
+<br><br>
 
-## I'm a Student, Developer, and Lifelong Learner!
-
-- 🔭 I’m currently working on Private gen and some other stuff!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code
-
-### Connect with me:
-
-[<img align="left" alt="Tharmsy | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-<br />
-
-### stats: 
-
-![G3V.co](https://github-readme-stats.vercel.app/api?username=TharmsyXD&show_icons=true&theme=Blue)
----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharmsyXD&langs_count=8&theme=Blue)
-
-#### Languages i know:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://languages.abranhe.com/languages/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://languages.abranhe.com/languages/css.png" />
-<img align="left" alt="Go" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FPNG%2F&psig=AOvVaw0ix1sKgjsauJ_unnYqVshj&ust=1684346530855000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDikfe1-v4CFQAAAAAdAAAAABAE" />
-<img align="left" alt="PhP" width="26px" src="https://languages.abranhe.com/languages/php.png" />
-<img align="left" alt="Lua" width="26px" src="https://languages.abranhe.com/languages/lua.png" />
-
-<br />
-<br />
-
----
+<h3 align="center">I'm Tharmsy you can call me Anything</h3>
+<h3 align="center">👋 I code stuff</h3>
 
 
-[gmail]: mailto:tharmsy@transgender.army
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/1158420428109394040.png">
+</div>
+
+<h3 align="center">L E A R N I N G</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,typescript,nodejs,react,nextjs,express,mongodb&perline=12" />
+  </a>
+</p>
+
+<h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,tensorflow,kotlin,c,cs,cpp,lua,docker,rust,dotnet,svelte,wasm&perline=12" />
+  </a>
+</p>
+
+<h3 align="center">P R O J E C T S</h3>
+<h3 align="center">Verge Private Hack i think</h3>
+<h3 align="center">Valium Csgo 2 cheat External 😱</h3>
+<h3 align="center">Surge Social media</h3>
+<h3 align="center">Surge Messager</h3>
+
+<br><br>
+
+![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
