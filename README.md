@@ -13,14 +13,14 @@
 <h3 align="center">L E A R N I N G</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,typescript,nodejs,react,nextjs,express,mongodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,typescript,nodejs,react,cpp,cs,nextjs,express,mongodb&perline=12" />
   </a>
 </p>
 
 <h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,tensorflow,kotlin,c,cs,cpp,lua,docker,rust,dotnet,svelte,wasm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=go,tensorflow,kotlin,c,lua,docker,rust,dotnet,svelte,wasm&perline=12" />
   </a>
 </p>
 
