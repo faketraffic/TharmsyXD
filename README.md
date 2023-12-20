@@ -3,9 +3,9 @@
 🌐 Exploring the Digital Universe 🌌
 
 📂 Projects:
-🔥 [Surge](htpps://surgeme.xyz) - The Future of Social medias!
-🌟 [Project 2](link-to-project-2) - Innovating with code!
-💡 [Project 3](link-to-project-3) - Shaping tomorrow's tech!
+🔥 [Surge](Surge) - The Future of Social medias!
+🌟 [Social media Base](Social-media-Base) - Social media Base
+💡 [Project 3](Chatroom) - Online ChatRoom
 
 👇 Let's connect! 👇
 📧 Email: tharmsy@gmail.com 
