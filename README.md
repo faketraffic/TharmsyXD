@@ -1,23 +1,27 @@
-👨‍💻 Tharmsy | Full-Stack Developer | 🎨 UI/UX Designer
-🌐 Exploring the Digital Universe 🌌
+👨‍💻 **Tharmsy** | Full-Stack Developer | 🎨 UI/UX Designer
+🌐 *Exploring the Digital Universe* 🚀
 
-📂 Projects:
-🔥 [Surge](Surge) - Revolutionizing Social Media
-    - Developed a cutting-edge social media platform.
-    - Implemented real-time messaging and user profiles.
+📂 **Projects**:
+1. **Surge** 🌊
+   - **Description**: Revolutionizing Social Media
+   - **Languages**: [⚙️ JavaScript](javascript-icon), [🔥 PHP](php-icon), [🖌️ HTML/CSS](html-css-icon)
+   - **Features**: Real-time messaging, user profiles
 
-🌟 [Social Media Base](Social-media-Base) - Building Blocks for Social Media
-    - Created a foundation for social media apps.
-    - Focus on user authentication and data security.
+2. **Social Media Base** 🌐
+   - **Description**: Building Blocks for Social Media
+   - **Languages**: [⚙️ JavaScript](javascript-icon), [🔒 Firebase](firebase-icon), [🌈 React](react-icon)
+   - **Focus**: User authentication, data security
 
-💡 [Chatroom](Chatroom) - Online ChatRoom
-    - An Project for Practice (dont recommend even trying to use it).
-    - Features real-time messaging .
+3. **Chatroom** 💬
+   - **Description**: Online ChatRoom
+   - **Languages**: [⚙️ Python](python-icon), [💬 Django](django-icon), [🚀 WebSocket](websocket-icon)
+   - **Features**: Real-time chat, emoji support
 
-🚀 [Portfolio Website](tharmsy.xyz) - Showcasing My Work
-    - Developed a personal portfolio website.
-    - Highlighting skills, projects, and contact information.
+4. **Portfolio Website** 🚀
+   - **Description**: Showcasing My Work
+   - **Languages**: [⚙️ HTML/CSS](html-css-icon), [📊 JavaScript](javascript-icon), [🔍 Bootstrap](bootstrap-icon)
+   - **Content**: Skills, projects, contact info
 
-👇 Let's connect! 👇
-📧 Email: tharmsy@gmail.com
-🌐 Portfolio: tharmsy.xyz
+👇 **Let's Connect!** 👇
+📧 **Email**: tharmsy@gmail.com
+🌐 **Portfolio**: [tharmsy.xyz](https://tharmsy.xyz)
