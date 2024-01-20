@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **tharmsy on Discord**
+- 📫 How to reach me **underagehunter on Discord**
 
 - ⚡ Fun fact **I think i should quit coding**
 
